@@ -1,0 +1,16 @@
+2021-09-10 16:43:08.506  INFO 8468 --- [main] g.zadatak1.Go4codeZadatak1Application    : Starting Go4codeZadatak1Application using Java 15.0.2 on Stefan with PID 8468 (C:\Users\Stefan\Documents\workspace-spring-tool-suite-4-4.10.0.RELEASE\go4code-zadatak1\target\classes started by Stefan in C:\Users\Stefan\Documents\workspace-spring-tool-suite-4-4.10.0.RELEASE\go4code-zadatak1)
+2021-09-10 16:43:08.513  INFO 8468 --- [main] g.zadatak1.Go4codeZadatak1Application    : No active profile set, falling back to default profiles: default
+2021-09-10 16:43:09.325  INFO 8468 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-09-10 16:43:09.413  INFO 8468 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 77 ms. Found 5 JPA repository interfaces.
+2021-09-10 16:43:10.004  INFO 8468 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-09-10 16:43:10.019  INFO 8468 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-09-10 16:43:10.019  INFO 8468 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.52]
+2021-09-10 16:43:10.149  INFO 8468 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-09-10 16:43:10.150  INFO 8468 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1578 ms
+2021-09-10 16:43:10.729  INFO 8468 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2021-09-10 16:43:11.194  INFO 8468 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2021-09-10 16:43:12.217  INFO 8468 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-09-10 16:43:12.592  WARN 8468 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-10 16:43:12.712 DEBUG 8468 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2021-09-10 16:43:12.801 DEBUG 8468 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 27 mappings in 'requestMappingHandlerMapping'
+2021-09-10 16:43:12.841 DEBUG 8468 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
